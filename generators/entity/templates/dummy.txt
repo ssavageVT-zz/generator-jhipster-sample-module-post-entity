@@ -1,0 +1,2 @@
+hello sample:entity sub generator!
+It's dummy.txt
